@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript Badge">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
-    <br><br><hr><br><br>
+    <br><br><hr>
     <h1>Statistics📈</h1>
     <table>
         <th>
