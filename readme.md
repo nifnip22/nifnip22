@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Hi 👋, My Name is Hanif Ahmad</h1>
     <h3><b>Junior Software Engineer</b> with Passion on Web Devalopment from <b>Indonesia</b></h3>
+    <br>
     <a href="https://linkedin.com/in/hanif-ahmad-18a879303/?trk=opento_sprofile_details" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
     <a href="https://www.facebook.com/profile.php?id=100089012786583" target="blank"><img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge"></a>
     <a href="https://www.instagram.com/hnif.am22/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge"></a>
@@ -8,7 +9,7 @@
     <br><br><br>
     <img src="https://komarev.com/ghpvc/?username=nifnip22&color=007EC6&style=for-the-badge">
     <img src="https://wakatime.com/badge/user/50120066-2a15-428c-9587-a24d51c04bf4.svg?style=for-the-badge">
-    <br><br><br><br>
+    <br><br><br>
     <h1>Programming Languages & Tools ​​that I Usually Use</h1>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
