@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
     <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge" alt="Astro Badge">
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Go Badge">
     <br><br><hr>
     <h1>Statistics📈</h1>
     <table>
