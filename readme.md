@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Go Badge">
     <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge" alt="Astro Badge">
+    <img src="https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=fff&style=flat" alt="Expo Badge">
     <br><br>
     <h3>Being Studied:</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
