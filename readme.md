@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi 👋, My Name is Hanif Ahmad</h1>
-    <h3><b>Junior Software Engineer</b> with Passion on Web Devalopment from <b>Indonesia</b></h3>
+    <h3><b>Junior Software Developer</b> with Passion on Web Devalopment from <b>Indonesia</b></h3>
     <br>
     <a href="https://linkedin.com/in/hanif-ahmad-18a879303/?trk=opento_sprofile_details" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
     <a href="https://www.instagram.com/hnif.am22/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge"></a>
@@ -34,14 +34,9 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
     <br><br><hr>
     <h1>Statistics📈</h1>
-    <table>
         <th>
             <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nifnip22&show_icons=true&include_all_commits=true&title_color=3BAEB6&text_color=D0D2D6&icon_color=D0D2D6&border_color=999999&bg_color=1A102A">
         </th>
-        <th>
-            <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifnip22&langs_count=8&layout=compact&title_color=3BAEB6&text_color=D0D2D6&border_color=999999&bg_color=1A102A"/>
-        </th>
-    </table>
     <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=nifnip22&langs_count=5&title_color=3BAEB6&text_color=D0D2D6&bg_color=1A102A&border_color=999999"/>
 </p>
 </div>
